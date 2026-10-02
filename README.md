@@ -4,6 +4,11 @@
 
 👉 **https://nonascope.com**
 
+![NonaScope showing today's calls in Lake Nona: the map with police, fire, highway patrol and outage markers inside the dashed Lake Nona outline, and the filters and call list on the left](docs/screenshot.jpg)
+
+> 🧪 **Early access.** Expect rough edges — feedback is very welcome. See
+> [Found a bug or have an idea?](#found-a-bug-or-have-an-idea) below.
+
 NonaScope pulls public emergency-services feeds every 30–60 seconds, keeps a running history of what
 happened nearby, and puts it on one map you can filter by time, area, type and distance from your home.
 
