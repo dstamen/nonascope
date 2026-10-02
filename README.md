@@ -50,7 +50,7 @@ covers the unincorporated land around it.
 
 ## Your home address
 
-Set it in ⚙️ Preferences to see distances and NEARBY calls. It's looked up once (via the US Census
+Set it in ⚙️ Preferences to see distances and NEARBY calls; tap the **Nearby** card to show only those. It's looked up once (via the US Census
 geocoder) and saved **only in your browser** — it isn't stored on the server, and the site never shows
 anyone else's home.
 
