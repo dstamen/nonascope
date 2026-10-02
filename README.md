@@ -42,17 +42,26 @@ covers the unincorporated land around it.
 - **Tags:** **ACTIVE** (still open), **NEARBY** (within ½ mile of your home), **+0.6 mi** (outside Lake
   Nona, in the surrounding ring), **approx** / **approx. area** (location is a best guess), **no pin**
   (the address is withheld or unavailable, so it isn't placed on the map).
-- **Filters:** time (Active, Today, 1d, 7d, 30d or a custom date range back to the start of the history), area ring, distance from home,
-  source and call type. Routine calls such as patrol and business checks are hidden by default — tap
-  **Routine** to show them.
+- **Filters:** time (Active, Today, 1d, 7d, 30d or a custom date range back to the start of the history),
+  area ring, distance from home, source and call type. Routine calls such as patrol and business checks
+  are hidden by default — tap **Routine** to show them.
+- **Nearby:** with a home set, tap the **Nearby** card to show only calls within ½ mile of home (it
+  highlights while on); tap it again to see everything.
 - **First visit** opens on **Today** and **Lake Nona** only. Your browser remembers whatever you pick after
   that (time, area, filters, light/dark), so it opens the way you left it.
 
 ## Your home address
 
-Set it in ⚙️ Preferences to see distances and NEARBY calls; tap the **Nearby** card to show only those. It's looked up once (via the US Census
-geocoder) and saved **only in your browser** — it isn't stored on the server, and the site never shows
-anyone else's home.
+Set it in ⚙️ Preferences to see distances and NEARBY calls, and to use the **Nearby** filter. It's looked
+up once (via the US Census geocoder) and saved **only in your browser** — it isn't stored on the server,
+and the site never shows anyone else's home.
+
+## When it's updating or offline
+
+NonaScope runs on a small home server. While it restarts for an update (usually under a minute) or if it's
+briefly offline, the site still opens with the last copy of the map and shows **Reconnecting…** at the top;
+it picks up live data again on its own, no reload needed. If you happen to open it for the first time right
+then, you'll see a short "NonaScope is restarting" page that reloads by itself.
 
 ## Privacy
 
