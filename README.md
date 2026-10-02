@@ -52,9 +52,10 @@ covers the unincorporated land around it.
 
 ## Your home address
 
-Set it in ⚙️ Preferences to see distances and NEARBY calls, and to use the **Nearby** filter. It's looked
-up once (via the US Census geocoder) and saved **only in your browser** — it isn't stored on the server,
-and the site never shows anyone else's home.
+Set it in ⚙️ Preferences — type an address or tap **📍 Use my current location** — to see distances and
+NEARBY calls, and to use the **Nearby** filter. It's saved **only in your browser** — it isn't stored on the
+server, and the site never shows anyone else's home. A typed address is looked up once via the US Census
+geocoder; your current location never leaves your device.
 
 ## When it's updating or offline
 
