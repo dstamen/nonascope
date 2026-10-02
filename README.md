@@ -2,7 +2,7 @@
 
 **A live map of police, fire, traffic, power and weather activity in Lake Nona / Laureate Park (Orlando, FL).**
 
-👉 **https://nonascope.davidstamen.com**
+👉 **https://nonascope.com**
 
 NonaScope pulls public emergency-services feeds every 30–60 seconds, keeps a running history of what
 happened nearby, and puts it on one map you can filter by time, area, type and distance from your home.

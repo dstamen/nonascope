@@ -1,5 +1,5 @@
 name: Bug report
-description: Something on nonascope.davidstamen.com looks wrong or doesn't work
+description: Something on nonascope.com looks wrong or doesn't work
 labels: [bug]
 body:
   - type: markdown
