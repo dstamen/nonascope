@@ -37,7 +37,7 @@ covers the unincorporated land around it.
 - **Tags:** **ACTIVE** (still open), **NEARBY** (within ½ mile of your home), **+0.6 mi** (outside Lake
   Nona, in the surrounding ring), **approx** / **approx. area** (location is a best guess), **no pin**
   (the address is withheld or unavailable, so it isn't placed on the map).
-- **Filters:** time (Active, 24h, 7d, 30d, All or a custom date range), area ring, distance from home,
+- **Filters:** time (Active, Today, 24h, 7d, 30d, All or a custom date range), area ring, distance from home,
   source and call type. Routine calls such as patrol and business checks are hidden by default — tap
   **Routine** to show them.
 
