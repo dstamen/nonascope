@@ -1,0 +1,36 @@
+name: Bug report
+description: Something on nonascope.davidstamen.com looks wrong or doesn't work
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for reporting! Please don't include your home address or anything personal.
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you see, and what did you expect instead?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can we see it?
+      description: Steps to reproduce, or the call/time involved if it's about a specific call.
+  - type: dropdown
+    id: device
+    attributes:
+      label: Device
+      options: [iPhone / iPad, Android phone or tablet, Desktop / laptop, Other]
+    validations:
+      required: true
+  - type: input
+    id: browser
+    attributes:
+      label: Browser
+      placeholder: e.g. Safari, Chrome, Firefox
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot
+      description: Drag an image here if it helps.
