@@ -40,6 +40,8 @@ covers the unincorporated land around it.
 - **Filters:** time (Active, Today, 1d, 7d, 30d or a custom date range back to the start of the history), area ring, distance from home,
   source and call type. Routine calls such as patrol and business checks are hidden by default — tap
   **Routine** to show them.
+- **First visit** opens on **Today** and **Lake Nona** only. Your browser remembers whatever you pick after
+  that (time, area, filters, light/dark), so it opens the way you left it.
 
 ## Your home address
 
@@ -54,8 +56,11 @@ often someone sets a home, never the address.
 
 ## Found a bug or have an idea?
 
-[Open an issue](https://github.com/dstamen/nonascope/issues/new/choose) — or use **🐞 Report a bug** in
-the site's ⓘ panel. Please don't include your home address or anything personal.
+- 🐞 [Report a bug](https://github.com/dstamen/nonascope/issues/new?template=bug_report.yml)
+- 💡 [Suggest a feature](https://github.com/dstamen/nonascope/issues/new?template=feature_request.yml)
+
+Both are also in the site's ⓘ panel. You'll need a free GitHub account. Please don't include your home
+address or anything personal.
 
 ## Credits
 

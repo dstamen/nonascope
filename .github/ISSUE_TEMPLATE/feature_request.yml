@@ -1,0 +1,24 @@
+name: Feature request
+description: Suggest something NonaScope could add or do better
+labels: [enhancement]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for the idea! Please don't include your home address or anything personal.
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would you like?
+      description: Describe the feature or change.
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why would it help?
+      description: What would it let you do, or what's hard today?
+  - type: dropdown
+    id: device
+    attributes:
+      label: Where do you mostly use NonaScope?
+      options: [Phone, Desktop / laptop, Both]
