@@ -40,8 +40,9 @@ covers the unincorporated land around it.
   far back the history goes.
 - **Active calls** show the time they came in; cleared calls show how long ago.
 - **Tags:** **ACTIVE** (still open), **NEARBY** (within ½ mile of your home), **+0.6 mi** (outside Lake
-  Nona, in the surrounding ring), **approx** / **approx. area** (location is a best guess), **no pin**
-  (the address is withheld or unavailable, so it isn't placed on the map).
+  Nona, in the surrounding ring), **approx** / **approx. area** (location is a best guess), **location withheld**
+  (police withhold the address for sensitive calls such as domestic violence or suicide attempts, so it's
+  never placed or guessed), **no pin** (no usable address yet — NonaScope keeps retrying).
 - **Filters:** time (Active, Today, 1d, 7d, 30d or a custom date range back to the start of the history),
   area ring, distance from home, source and call type. Routine calls such as patrol and business checks
   are hidden by default — tap **Routine** to show them.
