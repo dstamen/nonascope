@@ -11,6 +11,8 @@
 
 NonaScope pulls public emergency-services feeds every 30–60 seconds, keeps a running history of what
 happened nearby, and puts it on one map you can filter by time, area, type and distance from your home.
+Police and fire calls usually appear about 15 minutes after they come in — that's the delay the city
+publishes its feed with.
 
 > NonaScope is an independent community project. It isn't affiliated with the City of Orlando, Orlando
 > Police or Fire, the Florida Highway Patrol, OUC or the National Weather Service. Information can be
