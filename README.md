@@ -50,6 +50,11 @@ covers the unincorporated land around it.
   are hidden by default — tap **Routine** to show them.
 - **Nearby:** with a home set, tap the **Nearby** card to show only calls within ½ mile of home (it
   highlights while on); tap it again to see everything.
+- **Share a call:** every call's popup has a **🔗 Share** button — the link opens the map right on that call.
+- **📈 Trends** (next to the area note) shows calls per day, the busiest hours and the last week by type,
+  for whatever area and sources you've chosen.
+- **Locations** come first from the City of Orlando's official address list (refreshed weekly), so even
+  brand-new Lake Nona streets land on the right block.
 - **First visit** opens on **Today** and **Lake Nona** only. Your browser remembers whatever you pick after
   that (time, area, filters, light/dark), so it opens the way you left it.
 
