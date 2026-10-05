@@ -86,6 +86,11 @@ often someone sets a home, never the address.
 Both are also in the site's ⓘ panel. You'll need a free GitHub account. Please don't include your home
 address or anything personal.
 
+## Support NonaScope
+
+NonaScope is free, has no ads, and runs on a home server. If you find it useful, you can
+[☕ buy me a coffee](https://buymeacoffee.com/dstamenp). It's also in the site's ⓘ panel.
+
 ## Credits
 
 Inspired by [ESMap](https://www.davnit.net/esmap/). Map data © OpenStreetMap contributors. District
