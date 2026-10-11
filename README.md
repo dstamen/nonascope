@@ -68,8 +68,7 @@ geocoder; your current location never leaves your device.
 
 ## When it's updating or offline
 
-NonaScope runs on a small home server. While it restarts for an update (usually under a minute) or if it's
-briefly offline, the site still opens with the last copy of the map and shows **Reconnecting…** at the top;
+While NonaScope restarts for an update (usually under a minute) or if it's briefly offline, the site still opens with the last copy of the map and shows **Reconnecting…** at the top;
 it picks up live data again on its own, no reload needed. If you happen to open it for the first time right
 then, you'll see a short "NonaScope is restarting" page that reloads by itself.
 
@@ -88,7 +87,7 @@ address or anything personal.
 
 ## Support NonaScope
 
-NonaScope is free, has no ads, and runs on a home server. If you find it useful, you can
+NonaScope is free and has no ads. If you find it useful, you can
 [☕ buy me a coffee](https://buymeacoffee.com/dstamenp). It's also in the site's ⓘ panel.
 
 ## Credits
